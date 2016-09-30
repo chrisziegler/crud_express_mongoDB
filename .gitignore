@@ -15,8 +15,7 @@ node_modules/
 # VS Code debugger
 .vscode/
 
-#typings
-typings/
+
 
 # Packages #
 ############
